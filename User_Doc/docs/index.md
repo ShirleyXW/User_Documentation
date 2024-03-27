@@ -44,8 +44,14 @@ In order to successfully build your workspace, you are required to sign up by us
 9. Choose your plan.  
     ![choose the plan](.\images\choose_plan.jpg){width="400"}  
 
-10. If you skipped inviting memebers in the Step7, on the left, click **Add coworkers**, then enter coworkers’ emails. Then click on **Send to invite them**.
- 
+10. If you skipped inviting memebers in the Step7, on the left, click **YOUR WORKSPACE NAME**, then find `Invite people to YOUR WORKSPACE NAME` and click.  
+In the prompt text box, enter coworkers’ emails. Then click on **Send to invite them** if you manually enter emails. Or, you can choose to share the workspace link to invite members.  
+    ![invite member](.\images\invite_member.jpg){width="550"}  
+      
+#### Conclusion
+Good job, now, you successfully creating a new workspace and are able to :  
+* Invite members into workspace  
+* Start chats in channels
 
 
 
