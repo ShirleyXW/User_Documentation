@@ -57,7 +57,7 @@ In the prompt text box, enter coworkers’ emails. Then click on **Send to invit
 
 Good job, now, you successfully creating a new workspace and are able to :
 
-* Invite members into workspace
+* Invite members into workspace  
 * Start chats in channels
 
 ### Project Planning with Canvas
