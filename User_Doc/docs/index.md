@@ -12,6 +12,9 @@ Welcome!Let's start to create a new workspace for you and your team with awesome
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
+#### Overview
+In this section, we will guide you through creating a new workspace and invite team members to join. 
+
 
 ### Project Planning with Canvas
 
