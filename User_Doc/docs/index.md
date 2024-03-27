@@ -54,7 +54,9 @@ In the prompt text box, enter coworkers’ emails. Then click on **Send to invit
     ![invite member](.\images\invite_member.jpg){width="550"}  
       
 #### Conclusion
-Good job, now, you successfully creating a new workspace and are able to :  
+
+Good job, now, you successfully creating a new workspace and are able to :
+
 * Invite members into workspace  
 * Start chats in channels
 
@@ -74,13 +76,11 @@ Good job, now, you successfully creating a new workspace and are able to :
 
 3. Click cancel button icon to return back to channel.
 
-4.
+4. In the message field, click on slash icon at the bottom to open the shortcuts menu, then select "remind" topic. Alteratively, type in "/remind" directly in the message field.
 
-5. In the message field, click on slash icon at the bottom to open the shortcuts menu, then select "remind" topic. Alteratively, type in "/remind" directly in the message field.
+5. Click on Send icon to create a new reminder.
 
-6. Click on Send icon to create a new reminder.
-
-7. In the new popup window, add date, time and
+6. In the new popup window, add date, time and
 
 ### Integrating ZOOM into Workspace
 
