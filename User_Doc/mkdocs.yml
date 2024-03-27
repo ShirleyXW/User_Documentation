@@ -13,7 +13,11 @@ features:
     - navigation.path
     - navigation.indexes
     - navigation.sections
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
 markdown_extensions:
+  - admonition
   - attr_list
   - md_in_html
     
