@@ -108,6 +108,37 @@ _________________
 
 1. Check your email and get the confirmation code sent by `Slack`, then enter the code to the text field.
 
+2. On the left side, click `...` to open a floating widow and click **Automations**. Then, select Zoom and click **Add**.  
+    ![find zoom](.\images\find_zoom.png){width="550"}
+
+3. In the new page, click **Add to Slack**.  
+    ![add to slack](.\images\add_to_slack.png){width="550"}
+
+4. In the new page, select the way how you would like to use Zoom.  
+Then click **Add Now**.  
+    ![add to slack](.\images\zoom_ways.png){width="550"}
+
+5. Scoll down to the bottom and click **Allow**.  
+    ![allow add](.\images\apply_allow.png){width="400"}
+
+6. Installation is all done.
+
+7. Back to your workspace.
+
+8. On the left side, click **Apps**. You will see all apps installed.  
+    ![apps](.\images\apps_installed.png){height="100"}
+
+9. Click on **Zoom**.
+
+10. In the message field, click on slash icon ![slash_icon](.\images\slash_icon.png) at the bottom to open the shortcuts menu, then select "zoom" topic. (Or type in "/zoom" directly in the message field)
+
+11. Click on Send icon ![send_icon](.\images\send_icon.png) to start a meeting.
+
+!!!note 
+    If you are using the zoom in Slack in the first time, you are asked for authorizing zoom.
+
+
+
 ## Troubleshooting
 
 | **Symptoms** | **Probable Cause** | **Action** |
