@@ -7,13 +7,13 @@ Welcome!👋 Let's start to create a new workspace for you and your team with aw
 This documentation is targeted towards the following users:
 
 * New users who are responsible for managing workspace setups
-* Users who are looking for Zoom integration into existing workplace.
+* Users who are looking for Zoom integration into existing workplace
 
 ## Prerequisite Knowledge
 
 The documentation assumes the following:
 
-*
+* User has an email account
 
 ## Workspace Setup and Integration
 
@@ -81,8 +81,24 @@ Good job, now, you successfully creating a new workspace and are able to :
 
 6. In the new popup window, fill out date, time and description. Then click **Save** to save the reminder.
 
-7. Click on Bookmark icon on left of the sidebar menu.  
+7. Click on **Later** icon on left of the sidebar menu.  
 ![later_icon_in_menu](.\images\later_icon_in_menu.png){width="300"}
+
+8. Check if there is a new created reminder in the list. The following picture showcase the successfully setup reminder.  
+![reminder](.\images\reminder.png){width="300"}
+
+9. Hover over the reminder, then click on the complete icon once you have done the task.
+![reminder_complete](.\images\reminder_complete.png){width="300"}
+
+10. Click on More icon to edit or remove if necessary.  
+![reminder_more](.\images\reminder_more.png){width="300"}
+
+#### Conclusion
+
+Now, you successfully creating a Canvas for a channel and a reminder. And you are able to :  
+
+* Showcase the project plan with your teammates  
+* Stay organized and on track by receiving timely reminders for important tasks
 
 ### Integrating ZOOM into Workspace
 
@@ -101,6 +117,8 @@ Good job, now, you successfully creating a new workspace and are able to :
 
 | **Term** |  **Definition**              |
 |------------------------------|--------------------------------------------------|
-| **Workplace** | Slack workspace is where people can work together, connect all their software tools and services, and find the information they need to do their best work.|
-| **Canvas**  | A canvas is a surface built into Slack where you can create and share fully-formatted content.|
+| **Workplace** | Slack workspace is where people can communicate and work together, connect all their software tools and services, and find the information they need to do their best work.|
+| **Canvas**  | A canvas is a surface built into Slack where you can create and share content with all coworkers in a channel.|
 | **Zoom** | Zoom is a communications platform that allows users to connect with video, audio, phone, and chat.|
+| **Channel** | Channels are spaces for all the people, tools, and files you need to get work done in Slack. You can create channels for different teams, topics, and projects to bring order and clarity to work.|
+| **Later** | Messages and files you’ve saved and reminders you’ve set are only visible to you from the Later view.|
