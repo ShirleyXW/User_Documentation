@@ -13,4 +13,7 @@ features:
     - navigation.path
     - navigation.indexes
     - navigation.sections
+markdown_extensions:
+  - attr_list
+  - md_in_html
     
