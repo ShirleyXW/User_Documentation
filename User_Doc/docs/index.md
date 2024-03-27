@@ -6,6 +6,8 @@ Welcome!👋 Let's start to create a new workspace for you and your team with aw
 
 This documentation is targeted towards the following users:
 
+* New users who have little knowledge of Slack
+* New users who have adquate knowledge of Internet
 * New users who are responsible for managing workspace setups
 * Users who are looking for Zoom integration into existing workplace
 
