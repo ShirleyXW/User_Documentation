@@ -60,6 +60,8 @@ Good job, now, you successfully creating a new workspace and are able to :
 * Invite members into workspace  
 * Start chats in channels
 
+_________________
+
 ### Project Planning with Canvas
 
 1. Select a channel on the sidebar menu.  
@@ -93,12 +95,14 @@ Good job, now, you successfully creating a new workspace and are able to :
 10. Click on More icon to edit or remove if necessary.  
 ![reminder_more](.\images\reminder_more.png){width="300"}
 
-#### Conclusion
+#### <span style="color:grey"> Conclusion </span>
 
 Now, you successfully creating a Canvas for a channel and a reminder. And you are able to :  
 
 * Showcase the project plan with your teammates  
 * Stay organized and on track by receiving timely reminders for important tasks
+
+_________________
 
 ### Integrating ZOOM into Workspace
 
