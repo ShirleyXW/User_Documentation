@@ -1,19 +1,26 @@
 # Slack User Documentation
 
-## Introduction
-
 Welcome!👋 Let's start to create a new workspace for you and your team with awesome features. This documentation will guild you through setting up a new workplace in **Slack**, planning projects using Canvas and integrate Zoom into your workplace. These steps keeps you stay updated and better communicate with your teammates.
 
 ## Workspace Setup and Integration
 
 ### Create Slack Workspace
+ 
+In this section, we will guide you through creating a new workspace and inviting team members to join.   
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-#### Overview
-In this section, we will guide you through creating a new workspace and invite team members to join. 
+#### Create New Workspace
+In order to successfully build your workspace, you are required to sign up by using your email address.
+
+1. Visit [Slack Website](https://slack.com/).
+
+2. Click **CREATE A NEW WORKPLACE**.  
+    ![create_workspace_button](.\images\create_workspace_btn.jpg)
+
+3. Enter your email, then click Continue.
+
+4. Check your email and get the confirmation code sent by Slack, then enter the code to the text field.
+ 
+
 
 
 ### Project Planning with Canvas
