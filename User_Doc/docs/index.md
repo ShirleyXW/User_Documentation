@@ -52,39 +52,41 @@ In order to successfully build your workspace, you are required to sign up by us
 10. If you skipped inviting memebers in the Step7, on the left, click **YOUR WORKSPACE NAME**, then find `Invite people to YOUR WORKSPACE NAME` and click.  
 In the prompt text box, enter coworkers’ emails. Then click on **Send to invite them** if you manually enter emails. Or, you can choose to share the workspace link to invite members.  
     ![invite member](.\images\invite_member.jpg){width="550"}  
-      
+
 #### Conclusion
-Good job, now, you successfully creating a new workspace and are able to :  
-* Invite members into workspace  
+
+Good job, now, you successfully creating a new workspace and are able to :
+
+* Invite members into workspace
 * Start chats in channels
-
-
 
 ### Project Planning with Canvas
 
 1. Select a channel on the sidebar menu.  
-    ![sidebar](.\images\sidebar.png)
+    ![sidebar](.\images\sidebar.png){width="300"}
 
 2. Create and edit Canvas.
     * Click Add-notes icon on top-right corner to open Canvas and add your notes.
+    ![canvas_icon](.\images\canvas_icon.png)
     * Type in ideas and descriptions.
     * At the bottom menu, click on paper clip icon ![paper_clip_icon](.\images\paper_clip_icon.png) to add files.
     * Click on table icon ![table_icon](.\images\table_icon.png) to add tables.
     * Click on checkbox ![checklist_icon](.\images\checklist_icon.png) to add checklists.
 
-3. Click cancel button icon to return back to channel.
+3. Click close button icon to return back to channel.
 
-4.
+4. In the message field, click on slash icon ![slash_icon](.\images\slash_icon.png) at the bottom to open the shortcuts menu, then select "remind" topic. (Or type in "/remind" directly in the message field)
 
-5. In the message field, click on slash icon at the bottom to open the shortcuts menu, then select "remind" topic. Alteratively, type in "/remind" directly in the message field.
+5. Click on Send icon ![send_icon](.\images\send_icon.png) to create a new reminder.
 
-6. Click on Send icon to create a new reminder.
+6. In the new popup window, fill out date, time and description. Then click **Save** to save the reminder.
 
-7. In the new popup window, add date, time and
+7. Click on Bookmark icon on left of the sidebar menu.  
+![later_icon_in_menu](.\images\later_icon_in_menu.png){width="300"}
 
 ### Integrating ZOOM into Workspace
 
-4. Check your email and get the confirmation code sent by `Slack`, then enter the code to the text field.
+1. Check your email and get the confirmation code sent by `Slack`, then enter the code to the text field.
 
 ## Troubleshooting
 
