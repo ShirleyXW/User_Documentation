@@ -53,7 +53,7 @@ In order to successfully build your workspace, you are required to sign up by us
 In the prompt text box, enter coworkers’ emails. Then click on **Send to invite them** if you manually enter emails. Or, you can choose to share the workspace link to invite members.  
     ![invite member](.\images\invite_member.jpg){width="550"}  
 
-#### Conclusion
+#### <span style="color:grey"> Conclusion </span>
 
 Good job, now, you successfully creating a new workspace and are able to :
 
@@ -83,6 +83,11 @@ Good job, now, you successfully creating a new workspace and are able to :
 
 7. Click on Bookmark icon on left of the sidebar menu.  
 ![later_icon_in_menu](.\images\later_icon_in_menu.png){width="300"}
+
+#### <span style="color:grey"> Conclusion </span>
+
+ <span style="color:grey">_Hooray! By the end of this part, you are able to create a customized canvas to project your plan and keep up with any changes_.</span>
+
 
 ### Integrating ZOOM into Workspace
 
