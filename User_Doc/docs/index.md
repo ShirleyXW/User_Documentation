@@ -5,10 +5,11 @@ Welcome!👋 Let's start to create a new workspace for you and your team with aw
 ## Workspace Setup and Integration
 
 ### Create Slack Workspace
- 
-In this section, we will guide you through creating a new workspace and inviting team members to join.   
+
+In this section, we will guide you through creating a new workspace and inviting team members to join.
 
 #### Create New Workspace
+
 In order to successfully build your workspace, you are required to sign up by using your email address.
 
 1. Visit [Slack Website](https://slack.com/).
@@ -55,7 +56,11 @@ In order to successfully build your workspace, you are required to sign up by us
 
 4. Check your email and get the confirmation code sent by `Slack`, then enter the code to the text field.
 
-5.
+5. In the message field, click on slash icon at the bottom to open the shortcuts menu, then select "remind" topic. Alteratively, type in "/remind" directly in the message field.
+
+6. Click on Send icon to create a new reminder.
+
+7. In the new popup window, add date, time and 
 
 ### Integrating ZOOM into Workspace
 
