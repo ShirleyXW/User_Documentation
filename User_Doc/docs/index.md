@@ -18,8 +18,13 @@ In order to successfully build your workspace, you are required to sign up by us
     ![create_workspace_button](.\images\create_workspace_btn.jpg)
 
 3. Enter your email, then click Continue.
+    ![enter email:](.\images\enter_email.jpg){width = "50"}
+
 
 4. Check your email and get the confirmation code sent by Slack, then enter the code to the text field.
+ 
+
+
 
 ### Project Planning with Canvas
 
