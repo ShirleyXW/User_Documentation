@@ -53,7 +53,7 @@ In order to successfully build your workspace, you are required to sign up by us
 In the prompt text box, enter coworkers’ emails. Then click on **Send to invite them** if you manually enter emails. Or, you can choose to share the workspace link to invite members.  
     ![invite member](.\images\invite_member.jpg){width="550"}  
 
-#### Conclusion
+#### <span style="color:grey"> Conclusion </span>
 
 Good job, now, you successfully creating a new workspace and are able to :
 
