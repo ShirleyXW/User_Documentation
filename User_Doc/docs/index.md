@@ -2,6 +2,13 @@
 
 Welcome!👋 Let's start to create a new workspace for you and your team with awesome features. This documentation will guild you through setting up a new workplace in **Slack**, planning projects using Canvas and integrate Zoom into your workplace. These steps keeps you stay updated and better communicate with your teammates.
 
+## Intended Users
+
+This documentation is targeted towards the following users:
+
+* Beginner users who need to setup a backend for a personal project.
+* Software development teams working on small or medium-sized web applications.
+
 ## Workspace Setup and Integration
 
 ### Create Slack Workspace
@@ -20,11 +27,7 @@ In order to successfully build your workspace, you are required to sign up by us
 3. Enter your email, then click Continue.
     ![enter email:](.\images\enter_email.jpg){width = "50"}
 
-
 4. Check your email and get the confirmation code sent by Slack, then enter the code to the text field.
- 
-
-
 
 ### Project Planning with Canvas
 
@@ -45,7 +48,7 @@ In order to successfully build your workspace, you are required to sign up by us
 
 6. Click on Send icon to create a new reminder.
 
-7. In the new popup window, add date, time and 
+7. In the new popup window, add date, time and
 
 ### Integrating ZOOM into Workspace
 
