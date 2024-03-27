@@ -4,3 +4,7 @@ theme:
   custom_dir: 'cinder'
 nav:
   - Home: index.md
+features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    
