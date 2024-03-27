@@ -1,27 +1,19 @@
-# Slack User Documentation
+## Home
 
-## Introduction
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Workspace Setup and Integration
-
-### Create Slack Workspace
+## Add a new workspace
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
-### Project Planning with Canvas
+## Plan the project 
 
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 
-### Integrating ZOOM into Workspace
-
-## troubleshooting
+## Integrate ZOOM into a workspace
 
 ## Glossary
