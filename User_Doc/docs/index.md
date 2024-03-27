@@ -6,8 +6,14 @@ Welcome!👋 Let's start to create a new workspace for you and your team with aw
 
 This documentation is targeted towards the following users:
 
-* Beginner users who need to setup a backend for a personal project.
-* Software development teams working on small or medium-sized web applications.
+* New users who are responsible for managing workspace setups
+* Users who are looking for Zoom integration into existing workplace.
+
+## Prerequisite Knowledge
+
+The documentation assumes the following:
+
+*
 
 ## Workspace Setup and Integration
 
@@ -26,27 +32,24 @@ In order to successfully build your workspace, you are required to sign up by us
 
 3. Enter your email, then click Continue.  
     ![enter email:](.\images\enter_email.jpg){ width="300" }
- 
 
 4. Check your email and get the confirmation code sent by Slack, then enter the code to the text field.
- 
-
-
 
 ### Project Planning with Canvas
 
-1. Select a channel on the sidebar menu.
+1. Select a channel on the sidebar menu.  
+    ![sidebar](.\images\sidebar.png)
 
 2. Create and edit Canvas.
     * Click Add-notes icon on top-right corner to open Canvas and add your notes.
     * Type in ideas and descriptions.
-    * Click on paper clip icon to add files.
-    * Click on table icon to add tables.
-    * Click on checkbox to add checklists.
+    * At the bottom menu, click on paper clip icon ![paper_clip_icon](.\images\paper_clip_icon.png) to add files.
+    * Click on table icon ![table_icon](.\images\table_icon.png) to add tables.
+    * Click on checkbox ![checklist_icon](.\images\checklist_icon.png) to add checklists.
 
 3. Click cancel button icon to return back to channel.
 
-4. Check your email and get the confirmation code sent by `Slack`, then enter the code to the text field.
+4.
 
 5. In the message field, click on slash icon at the bottom to open the shortcuts menu, then select "remind" topic. Alteratively, type in "/remind" directly in the message field.
 
@@ -55,6 +58,8 @@ In order to successfully build your workspace, you are required to sign up by us
 7. In the new popup window, add date, time and
 
 ### Integrating ZOOM into Workspace
+
+4. Check your email and get the confirmation code sent by `Slack`, then enter the code to the text field.
 
 ## Troubleshooting
 
