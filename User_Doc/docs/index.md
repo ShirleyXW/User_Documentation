@@ -35,6 +35,6 @@ Welcome!👋 Let's start to create a new workspace for you and your team with aw
 
 | **Term** |  **Definition**              |
 |------------------------------|--------------------------------------------------|
-| **Workplace** | API stands for Application Programming Interface. It exposes some of an application's code intentionally for use by other applications.|
-| **Canvas**  | The components of a website that handle and store data. They are not visible to the user.|
-| **Zoom** | The conformity or uniformity of the code, often achieved by following an established code style guide.|
+| **Workplace** | Slack workspace is where people can work together, connect all their software tools and services, and find the information they need to do their best work.|
+| **Canvas**  | A canvas is a surface built into Slack where you can create and share fully-formatted content.|
+| **Zoom** | Zoom is a communications platform that allows users to connect with video, audio, phone, and chat.|
