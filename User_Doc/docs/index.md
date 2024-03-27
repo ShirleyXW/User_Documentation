@@ -1,7 +1,5 @@
 ## Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
 ## Add a new workspace
 
 * `mkdocs new [dir-name]` - Create a new project.
