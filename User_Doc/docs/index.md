@@ -62,6 +62,7 @@ Good job, now, you successfully creating a new workspace and are able to :
 * Invite members into workspace  
 * Start chats in channels
 
+<br>
 _________________
 
 ### Project Planning with Canvas
@@ -104,6 +105,7 @@ Now, you successfully creating a Canvas for a channel and a reminder. And you ar
 * Showcase the project plan with your teammates  
 * Stay organized and on track by receiving timely reminders for important tasks
 
+<br>
 _________________
 
 ### Integrating ZOOM into Workspace
@@ -134,12 +136,13 @@ Then click **Add Now**.
 
 10. In the message field, click on slash icon ![slash_icon](.\images\slash_icon.png) at the bottom to open the shortcuts menu, then select "zoom" topic. (Or type in "/zoom" directly in the message field)
 
-11. Click on Send icon ![send_icon](.\images\send_icon.png) to start a meeting.
+11. Click on Send icon ![send_icon](.\images\send_icon.png) to start a meeting.  
+
+<br>
 
 !!!note 
     If you are using the zoom in Slack in the first time, you are asked for authorizing zoom.
-
-
+<br>
 
 ## Troubleshooting
 
@@ -148,6 +151,7 @@ Then click **Add Now**.
 | Unable to open the redirect page  | Your extensions might be blocking it. | Please disable any ad extensions on the page on the page. |
 | Brower errors(No internet) | Not connected to WiFi or network. | Please  ensure that your device is successfully connected to a working network.|
 |     | Local connection is down. | Please try to use another network.|
+<br>
 
 ## Glossary
 
