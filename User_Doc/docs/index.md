@@ -138,6 +138,9 @@ Then click **Add Now**.
 
 11. Click on Send icon ![send_icon](.\images\send_icon.png) to start a meeting.  
 
+#### <span style="color:grey"> Conclusion </span>  
+Congratulation! By the end of this section, you are able to communicate with your team members via Zoom. Now, start your stunning journey with Slack.
+
 <br>
 
 !!!note 
