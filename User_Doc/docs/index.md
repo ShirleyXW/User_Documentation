@@ -21,11 +21,7 @@ The documentation assumes the following:
 
 ### Create Slack Workspace
 
-In this section, we will guide you through creating a new workspace and inviting team members to join.
-
-#### Create New Workspace
-
-In order to successfully build your workspace, you are required to sign up by using your email address.
+In this section, we will guide you through creating a new workspace and inviting team members to join. In order to successfully build your workspace, you are required to sign up by using your email address.
 
 1. Visit [Slack Website](https://slack.com/).
 
@@ -65,7 +61,9 @@ Good job, now, you successfully creating a new workspace and are able to :
 <br>
 _________________
 
-### Project Planning with Canvas
+### Project Planning with Canvas and Remind
+
+In this session, you will learn how to use Canvas basic tools to organize your ideas, notes, and tasks within your preferred channel, as well as setting up reminders to manage important deadlines and commitments effectively within the channel environment.
 
 1. Select a channel on the sidebar menu.  
     ![sidebar](.\images\sidebar.png){width="300"}
@@ -109,6 +107,8 @@ Now, you successfully creating a Canvas for a channel and a reminder. And you ar
 _________________
 
 ### Integrating ZOOM into Workspace
+
+By implementing the following steps, you can integrate Zoom with Slack, which allows you to initiate meetings directly from the platform with a simple step.
 
 1. Check your email and get the confirmation code sent by `Slack`, then enter the code to the text field.
 
