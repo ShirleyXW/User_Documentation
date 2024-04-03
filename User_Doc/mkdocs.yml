@@ -5,6 +5,8 @@ theme:
 nav:
   - Home: index.md
   - Instruction: instruction.md
+  - Project Planning: project_planning.md
+  - Zoom Integration: zoom-integration.md
   - Trouble Shooting : trouble_shooting.md
   - Glossary : glossary.md
   
