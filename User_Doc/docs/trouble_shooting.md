@@ -1,4 +1,5 @@
-## Trouble shooting  
+## Trouble shootings  
+<br>
 Troubles you might meet and solutions.  
 
 | **Symptoms** | **Probable Cause** | **Action** |
