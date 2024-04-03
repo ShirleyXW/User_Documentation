@@ -1,3 +1,5 @@
+<br>
+
 ## Project Planning
 
 In this session, you will learn how to use Canvas basic tools to organize your ideas, notes, and tasks within your preferred channel, as well as set up reminders to manage important deadlines and commitments effectively within the channel environment.
