@@ -1,4 +1,6 @@
-# Slack User Documentation
+<br>
+
+## Slack User Documentation
 
 Welcome!👋 Let's start to create a new workspace for you and your team with awesome features. This documentation will guild you through setting up a new workplace in **Slack**, planning projects using Canvas and integrate Zoom into your workplace. These steps keeps you stay updated and better communicate with your teammates.
 

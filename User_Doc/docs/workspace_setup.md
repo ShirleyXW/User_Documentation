@@ -1,3 +1,5 @@
+<br>
+
 ## Create Slack Workspace
 In this section, we will guide you through creating a new workspace and inviting team members to join.
 

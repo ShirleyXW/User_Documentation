@@ -1,3 +1,5 @@
+<br>
+
 ## Integrating ZOOM into Workspace
 
 By implementing the following steps, you can integrate Zoom with Slack, which allows you to initiate meetings directly from the platform with a simple step.
