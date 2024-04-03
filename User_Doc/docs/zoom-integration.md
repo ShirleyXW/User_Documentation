@@ -1,6 +1,8 @@
-# Integrating ZOOM into Workspace
+## Integrating ZOOM into Workspace
 
 By implementing the following steps, you can integrate Zoom with Slack, which allows you to initiate meetings directly from the platform with a simple step.
+
+### Authorization and Setup
 
 1. Check your email and get the confirmation code sent by `Slack`, then enter the code into the text field.
 
@@ -17,18 +19,22 @@ Then click **Add Now**.
 5. Scroll down to the bottom and click **Allow**.  
     ![allow add](.\images\apply_allow.png){width="400"}
 
-6. Back to your workspace.
+### Configuring Zoom Integration
 
-7. On the left side, click **Apps**. You will see all apps installed.  
+1. Back to your workspace.
+
+2. On the left side, click **Apps**. You will see all apps installed.  
     ![apps](.\images\apps_installed.png){height="100"}
 
-8. Click on **Zoom**.
+3. Click on **Zoom**.
 
-9. In the message field, click on the **Slash** icon ![slash_icon](.\images\slash_icon.png) at the bottom to open the shortcuts menu, then select "zoom" topic. (Or type in "/zoom" directly in the message field)
+4. In the message field, click on the **Slash** icon ![slash_icon](.\images\slash_icon.png) at the bottom to open the shortcuts menu, then select "zoom" topic. (Or type in "/zoom" directly in the message field)
 
-10. Click on the **Send Now** icon ![send_icon](.\images\send_icon.png) to start a meeting.  
+### Initiating Meetings in Slack with Zoom
 
-## <span style="color:grey"> Conclusion </span>  
+1. Click on the **Send Now** icon ![send_icon](.\images\send_icon.png) to start a meeting.  
+
+### <span style="color:grey"> Conclusion </span>  
 
 Congratulation! By the end of this section, you can communicate with your team members via Zoom. Now, start your stunning journey with Slack.
 

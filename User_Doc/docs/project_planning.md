@@ -1,8 +1,8 @@
-# Project Planning
+## Project Planning
 
 In this session, you will learn how to use Canvas basic tools to organize your ideas, notes, and tasks within your preferred channel, as well as set up reminders to manage important deadlines and commitments effectively within the channel environment.
 
-## Canvas Setup
+### Canvas Setup
 
 1. Select a channel on the sidebar menu.  
     ![sidebar](.\images\sidebar.png){width="300"}
@@ -17,7 +17,7 @@ In this session, you will learn how to use Canvas basic tools to organize your i
 
 3. Click the **Close** button icon to return to the channel.
 
-## Reminder Setup
+### Reminder Setup
 
 1. In the message field, click on **Slash** icon ![slash_icon](.\images\slash_icon.png) at the bottom to open the shortcuts menu, then select "remind" topic. (Or type in "/remind" directly in the message field)
 
@@ -37,7 +37,7 @@ In this session, you will learn how to use Canvas basic tools to organize your i
 7. Click on the **More Actions** icon to edit or remove if necessary.  
 ![reminder_more](.\images\reminder_more.png){width="300"}
 
-## <span style="color:grey"> Conclusion </span>
+### <span style="color:grey"> Conclusion </span>
 
 Now, you successfully created a Canvas for a channel and a reminder. And you can :  
 
