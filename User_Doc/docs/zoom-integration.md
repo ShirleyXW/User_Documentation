@@ -19,7 +19,7 @@ Then click **Add Now**.
 5. Scroll down to the bottom and click **Allow**.  
     ![allow add](.\images\apply_allow.png){width="400"}
 
-### Configuring Zoom Integration
+### Zoom Integration Configuration
 
 1. Back to your workspace.
 
@@ -30,7 +30,7 @@ Then click **Add Now**.
 
 4. In the message field, click on the **Slash** icon ![slash_icon](.\images\slash_icon.png) at the bottom to open the shortcuts menu, then select "zoom" topic. (Or type in "/zoom" directly in the message field)
 
-### Initiating Meetings in Slack with Zoom
+### Meetings Initialization in Slack with Zoom
 
 1. Click on the **Send Now** icon ![send_icon](.\images\send_icon.png) to start a meeting.  
 
