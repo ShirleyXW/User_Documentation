@@ -4,22 +4,36 @@ theme:
   custom_dir: 'cinder'
 nav:
   - Home: index.md
-  - Instruction: instruction.md
+  - Workspace set-up : workspace_setup.md
   - Project Planning: project_planning.md
   - Zoom Integration: zoom-integration.md
   - Trouble Shooting : trouble_shooting.md
   - Glossary : glossary.md
   
+  
 features:
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.expand
-    - navigation.path
-    - navigation.indexes
-    - navigation.sections
-    - navigation.sections
-    - navigation.expand
-    - toc.integrate
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    # - navigation.expand
+    # - navigation.path
+    # - navigation.indexes
+    # - navigation.sections
+    # - navigation.sections
+    # - navigation.expand
+    # - toc.integrate
+  navigation.instant
+  navigation.instant.prefetch
+  navigation.instant.progress
+  navigation.tabs
+  navigation.tabs.sticky
+  navigation.tracking
+  navigation.sections
+  navigation.expand
+  navigation.path
+  navigation.indexes
+  toc.follow
+  toc.integrate
+
 markdown_extensions:
   - admonition
   - attr_list
