@@ -32,7 +32,7 @@ Then click **Add Now**.
 
 4. In the message field, click on the **Slash** icon ![slash_icon](.\images\slash_icon.png) at the bottom to open the shortcuts menu, then select "zoom" topic. (Or type in "/zoom" directly in the message field)
 
-### Meetings Initialization in Slack with Zoom
+### Meetings Initialization
 
 1. Click on the **Send Now** icon ![send_icon](.\images\send_icon.png) to start a meeting.  
 

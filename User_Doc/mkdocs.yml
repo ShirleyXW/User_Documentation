@@ -1,4 +1,4 @@
-site_name: Slack User Documentation
+site_name: Slack User Docs
 theme:
   name: null
   custom_dir: 'cinder'
@@ -7,7 +7,7 @@ nav:
   - Workspace Setup : workspace_setup.md
   - Project Planning: project_planning.md
   - Zoom Integration: zoom-integration.md
-  - Trouble Shooting : trouble_shooting.md
+  - Troubleshooting : trouble_shooting.md
   - Glossary : glossary.md
   
   
