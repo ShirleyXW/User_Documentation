@@ -1,8 +1,7 @@
-# Workspace Setup and Integration
-
 ## Create Slack Workspace
-
 In this section, we will guide you through creating a new workspace and inviting team members to join.
+
+### Workspace Creation
 
 1. Visit [Slack Website](https://slack.com/).
 
@@ -19,23 +18,27 @@ In this section, we will guide you through creating a new workspace and inviting
 
 6. Following prompt instructions and enter required information.
 
-7. Enter coworkers’ emails or Skip this step (You can invite members later as well.)
+
+### Workspace Setup  
+
+1. Enter coworkers’ emails or Skip this step (You can invite members later as well.)
     ![invite members or skip this step](.\images\invite_member_init.jpg){ width="400"}
 
-8. Enter a channel name for initiating your first channel, then click **Next**.
+2. Enter a channel name for initiating your first channel, then click **Next**.
     ![invite members or skip this step](.\images\init_channel.jpg){ width="400"}  
 
-9. Click **Start With Free**.  
+3. Click **Start With Free**.  
     ![choose the plan](.\images\choose_plan.jpg){width="400"}
 
+### Member Invitation
 
-10. If you skipped inviting members in the Step7, on the left, click **YOUR WORKSPACE NAME**, then find `Invite people to YOUR WORKSPACE NAME` and click.  
+1. If you skipped inviting members in step 1 of Workspace Setup , on the left, click **YOUR WORKSPACE NAME**, then find "Invite people to YOUR WORKSPACE NAME" and click.  
 In the prompt text box, enter coworkers’ emails. Then click on **Send to invite them** if you manually enter emails. Or, you can choose to share the workspace link to invite members.  
     ![invite member](.\images\invite_member.jpg){width="400"}  
 
 <br>
 
-## <span style="color:grey"> Conclusion </span>
+### <span style="color:grey"> Conclusion </span>
 
 Good job, now, you successfully creating a new workspace and are able to :
 
