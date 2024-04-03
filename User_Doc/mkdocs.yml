@@ -4,7 +4,9 @@ theme:
   custom_dir: 'cinder'
 nav:
   - Home: index.md
-
+  - Instruction: instruction.md
+  - Trouble Shooting : trouble_shooting.md
+  - Glossary : glossary.md
   
 features:
     - navigation.tabs
