@@ -21,7 +21,11 @@ The documentation assumes the following:
 
 ### Create Slack Workspace
 
-In this section, we will guide you through creating a new workspace and inviting team members to join. In order to successfully build your workspace, you are required to sign up by using your email address.
+In this section, we will guide you through creating a new workspace and inviting team members to join.
+
+!!!note
+    In order to successfully build your workspace, you are required to sign up by using your email address.
+
 
 1. Visit [Slack Website](https://slack.com/).
 
@@ -50,6 +54,8 @@ In this section, we will guide you through creating a new workspace and inviting
 10. If you skipped inviting memebers in the Step7, on the left, click **YOUR WORKSPACE NAME**, then find `Invite people to YOUR WORKSPACE NAME` and click.  
 In the prompt text box, enter coworkers’ emails. Then click on **Send to invite them** if you manually enter emails. Or, you can choose to share the workspace link to invite members.  
     ![invite member](.\images\invite_member.jpg){width="550"}  
+
+<br>
 
 #### <span style="color:grey"> Conclusion </span>
 
@@ -95,6 +101,8 @@ In this session, you will learn how to use Canvas basic tools to organize your i
 
 10. Click on More icon to edit or remove if necessary.  
 ![reminder_more](.\images\reminder_more.png){width="300"}
+
+<br>
 
 #### <span style="color:grey"> Conclusion </span>
 
