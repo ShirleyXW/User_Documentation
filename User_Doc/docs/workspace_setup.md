@@ -8,7 +8,7 @@ In this section, we will guide you through creating a new workspace and inviting
 
 1. Visit [Slack Website](https://slack.com/).
 
-2. Click **CREATE A NEW WORKPLACE**.  
+2. Click **CREATE A NEW WORKSPACE**.  
     ![create_workspace_button](.\images\create_workspace_btn.jpg)
 
 3. Enter your email, then click **Continue**.  
