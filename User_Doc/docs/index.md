@@ -25,7 +25,7 @@ The documentation assumes the following:
 ### System Requirements
 For the best experience, we suggest using the latest versions to run Slack.  
 
-#### Desk Top
+#### Desktop
 | OS       | OS version                          | App version |
 |----------|-------------------------------------|-------------|
 | MacOS    | MacOS 11 or above                   | 4.34 or above |
@@ -67,4 +67,5 @@ Throughout the documentation, we use message block to draw attention to relevant
     Indicates additional information or tips. 
 <br>
 
-**[Workspace Setup](workspace_setup.md)**
+
+See next : **[Workspace Setup](workspace_setup.md)**

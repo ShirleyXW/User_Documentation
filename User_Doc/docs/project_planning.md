@@ -48,4 +48,4 @@ Now, you successfully created a Canvas for a channel and a reminder. And you can
 
 <br>
 
-**[Zoom Integration](zoom_integration.md)**
+See next : **[Zoom Integration](zoom_integration.md)**

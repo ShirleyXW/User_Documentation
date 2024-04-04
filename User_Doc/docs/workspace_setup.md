@@ -46,4 +46,5 @@ Good job, now, you successfully created a new workspace and you can:
 * Start chats in channels  
 
 <br>
-**[Project Planning](project_planning.md)**
+
+See next : **[Project Planning](project_planning.md)**
