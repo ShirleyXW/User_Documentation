@@ -25,4 +25,7 @@ The documentation assumes the following:
 2. Throughout the documentation, we use message block to draw attention to relevant information.
 
 !!!note
-    Indicates additional information and tips.
+    Indicates additional information and tips.  
+<br>
+
+**[Workspace Setup](workspace_setup.md)**

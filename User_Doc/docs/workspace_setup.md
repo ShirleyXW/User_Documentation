@@ -43,4 +43,7 @@ In the prompt text box, enter coworkers’ emails. Then click on **Send to invit
 Good job, now, you successfully created a new workspace and you can:
 
 * Invite members into workspace  
-* Start chats in channels
+* Start chats in channels  
+
+<br>
+**[Project Planning](project_planning.md)**
