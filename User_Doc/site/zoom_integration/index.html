@@ -8,10 +8,10 @@
     
     
     
-    <link rel="shortcut icon" href="img/favicon.ico">
+    <link rel="shortcut icon" href="../img/favicon.ico">
 
     
-    <title>Home - Slack User Docs</title>
+    <title>Zoom Integration - Slack User Docs</title>
     
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
@@ -21,9 +21,9 @@
     <link
         href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,600,700&subset=latin-ext,latin'
         rel='stylesheet' type='text/css'>
-    <link href="css/bootstrap-custom.min.css" rel="stylesheet">
-    <link href="css/base.min.css" rel="stylesheet">
-    <link href="css/cinder.min.css" rel="stylesheet">
+    <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
+    <link href="../css/base.min.css" rel="stylesheet">
+    <link href="../css/cinder.min.css" rel="stylesheet">
 
     
     
@@ -42,7 +42,7 @@
      
 </head>
 
-<body class="homepage" >
+<body>
 
     <div class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
@@ -61,7 +61,7 @@
             <!-- Main title -->
 
             
-              <a class="navbar-brand" href=".">Slack User Docs</a>
+              <a class="navbar-brand" href="..">Slack User Docs</a>
             
         </div>
 
@@ -71,38 +71,38 @@
                 <ul class="nav navbar-nav">
                 
                 
+                    <li >
+                        <a href="..">Home</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="../workspace_setup/">Workspace Setup</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="../project_planning/">Project Planning</a>
+                    </li>
+                
+                
+                
                     <li class="active">
-                        <a href=".">Home</a>
+                        <a href="./">Zoom Integration</a>
                     </li>
                 
                 
                 
                     <li >
-                        <a href="workspace_setup/">Workspace Setup</a>
+                        <a href="../trouble_shooting/">Troubleshooting</a>
                     </li>
                 
                 
                 
                     <li >
-                        <a href="project_planning/">Project Planning</a>
-                    </li>
-                
-                
-                
-                    <li >
-                        <a href="zoom_integration/">Zoom Integration</a>
-                    </li>
-                
-                
-                
-                    <li >
-                        <a href="trouble_shooting/">Troubleshooting</a>
-                    </li>
-                
-                
-                
-                    <li >
-                        <a href="glossary/">Glossary</a>
+                        <a href="../glossary/">Glossary</a>
                     </li>
                 
                 
@@ -114,13 +114,13 @@
                             <i class="fas fa-search"></i> Search
                         </a>
                     </li>
-                    <li class="disabled">
-                        <a rel="prev" >
+                    <li >
+                        <a rel="prev" href="../project_planning/">
                             <i class="fas fa-arrow-left"></i> Previous
                         </a>
                     </li>
                     <li >
-                        <a rel="next" href="workspace_setup/">
+                        <a rel="next" href="../trouble_shooting/">
                             Next <i class="fas fa-arrow-right"></i>
                         </a>
                     </li>
@@ -134,136 +134,72 @@
         
         <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="first-level active"><a href="#slack-user-documentation">Slack User Documentation</a></li>
-            <li class="second-level"><a href="#intended-users">Intended Users</a></li>
+        <li class="first-level active"><a href="#integrating-zoom-into-workspace">Integrating ZOOM into Workspace</a></li>
+            <li class="second-level"><a href="#authorization-and-setup">Authorization and Setup</a></li>
                 
-            <li class="second-level"><a href="#prerequisite-knowledge">Prerequisite Knowledge</a></li>
+            <li class="second-level"><a href="#zoom-integration-configuration">Zoom Integration Configuration</a></li>
                 
-            <li class="second-level"><a href="#system-requirements">System Requirements</a></li>
+            <li class="second-level"><a href="#meetings-initialization">Meetings Initialization</a></li>
                 
-                <li class="third-level"><a href="#desktop">Desktop</a></li>
-                <li class="third-level"><a href="#mobile">Mobile</a></li>
-            <li class="second-level"><a href="#typographical-conventions">Typographical Conventions</a></li>
-                
-            <li class="second-level"><a href="#notes">Notes</a></li>
+            <li class="second-level"><a href="#conclusion">Conclusion</a></li>
                 
     </ul>
 </div></div>
         <div class="col-md-9" role="main">
 
 <p><br></p>
-<h2 id="slack-user-documentation">Slack User Documentation</h2>
-<p>Welcome!👋 Let's start to create a new workspace for you and your team with awesome features. This documentation will guild you through setting up a new workplace in <em>Slack</em>, planning projects using Canvas and integrate Zoom into your workplace. These steps keeps you stay updated and better communicate with your teammates.  </p>
-<blockquote>
-<p><strong><a href="https://slack.com/help/articles/115004071768-What-is-Slack-">Slack</a></strong> is a messaging application that connects people to the they need. By bringing people together to work as one unified team, Slack transforms the way organizations communicate.  </p>
-<p><strong><a href="https://slack.com/help/articles/203950418-Use-a-canvas-in-Slack">Canvas</a></strong> is a built-in surface in Slack where supports fully-formatted content which won't fit in a simple message. </p>
-</blockquote>
-<h3 id="intended-users">Intended Users</h3>
-<p>This documentation is targeting towards the following users:</p>
-<ul>
-<li>New users who have little knowledge of Slack</li>
-<li>New users who are responsible for managing workspace setups</li>
-<li>Users who are looking for Zoom integration into their existing workplace(s)</li>
-</ul>
-<h3 id="prerequisite-knowledge">Prerequisite Knowledge</h3>
-<p>The documentation assumes the following:</p>
-<ul>
-<li>User has an email account  </li>
-</ul>
-<h3 id="system-requirements">System Requirements</h3>
-<p>For the best experience, we suggest using the latest versions to run Slack.  </p>
-<h4 id="desktop">Desktop</h4>
-<table>
-<thead>
-<tr>
-<th>OS</th>
-<th>OS version</th>
-<th>App version</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>MacOS</td>
-<td>MacOS 11 or above</td>
-<td>4.34 or above</td>
-</tr>
-<tr>
-<td>Windows</td>
-<td>Windows 10 version 21H2 or above</td>
-<td>4.34 or above</td>
-</tr>
-<tr>
-<td></td>
-<td>Windows Server 2016</td>
-<td>4.34 or above</td>
-</tr>
-<tr>
-<td>Linux</td>
-<td>Ubuntu LTS releases 20.04 or above</td>
-<td>4.34 or above</td>
-</tr>
-<tr>
-<td></td>
-<td>Red Hat Enterprise Linux 8.0 or above</td>
-<td>4.34 or above</td>
-</tr>
-</tbody>
-</table>
-<h4 id="mobile">Mobile</h4>
-<table>
-<thead>
-<tr>
-<th>Mobile</th>
-<th>OS version</th>
-<th>App version</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>iOS</td>
-<td>iOS 16 or above</td>
-<td>23.09.10 or above</td>
-</tr>
-<tr>
-<td>Android*</td>
-<td>Android 11 or above</td>
-<td>23.09.10 or above</td>
-</tr>
-</tbody>
-</table>
-<div class="admonition warning">
-<p class="admonition-title">Warning</p>
-<p>Slack only support Android devices that have Google Play Services installed by default. </p>
-</div>
-<div class="admonition tip">
-<p class="admonition-title">Tip</p>
-<p>For more information, check <a href="https://slack.com/help/articles/115002037526-System-requirements-for-using-Slack"><strong>Extras</strong></a>.  </p>
-</div>
-<h3 id="typographical-conventions">Typographical Conventions</h3>
+<h2 id="integrating-zoom-into-workspace">Integrating ZOOM into Workspace</h2>
+<p>By implementing the following steps, you can integrate Zoom with Slack, which allows you to initiate meetings directly from the platform with a simple step.</p>
+<h3 id="authorization-and-setup">Authorization and Setup</h3>
 <ol>
 <li>
-<p>Button name will be emphasized using bold font, such as: <strong>Button</strong>.</p>
+<p>On the left side of the side menu bar, click the <strong>More</strong> icon to open a floating window and click <strong>Automations</strong>. Then, select Zoom and click <strong>Add</strong>.<br />
+<img alt="find zoom" src="../images/find_zoom.png" width="550" /></p>
 </li>
 <li>
-<p>Some option name will be wrapped by double-quotation, for example: "Option".</p>
+<p>On the new page, click <strong>Add to Slack</strong>.<br />
+<img alt="add to slack" src="../images/add_to_slack.png" width="550" /></p>
+</li>
+<li>
+<p>On the new page, select "Zoom for Yourself" on the right.<br />
+Then click <strong>Add Now</strong>.<br />
+<img alt="add to slack" src="../images/zoom_ways.png" width="550" />  </p>
+</li>
+<li>
+<p>On the upper right corner, click the drop down menue and select the workspace you created.
+    <img alt="choose workspace" src="../images/choose_workspace.jpg" /></p>
+</li>
+<li>
+<p>Scroll down to the bottom and click <strong>Allow</strong>.<br />
+<img alt="allow add" src="../images/apply_allow.png" width="400" /></p>
 </li>
 </ol>
-<h3 id="notes">Notes</h3>
-<p>Throughout the documentation, we use message block to draw attention to relevant information.  </p>
+<h3 id="zoom-integration-configuration">Zoom Integration Configuration</h3>
+<ol>
+<li>
+<p>Back to your workspace.</p>
+</li>
+<li>
+<p>On the left side, click <strong>Apps</strong>. You will see all apps installed.<br />
+<img alt="apps" height="100" src="../images/apps_installed.png" /></p>
+</li>
+<li>
+<p>Click on <strong>Zoom</strong>.</p>
+</li>
+<li>
+<p>In the message field, click on the <strong>Slash</strong> icon <img alt="slash_icon" src="../images/slash_icon.png" />at the bottom to open the shortcuts menu, then select "zoom" topic. (Or type in "/zoom" directly in the message field)</p>
+</li>
+</ol>
+<h3 id="meetings-initialization">Meetings Initialization</h3>
+<ol>
+<li>Click on the <strong>Send Now</strong> icon <img alt="send_icon" src="../images/send_icon.png" /> to start a meeting.  </li>
+</ol>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
-<p>Indicates additional information and tips.  </p>
+<p>If you are using Zoom in Slack for the first time, you are asked to authorize Zoom.</p>
 </div>
-<div class="admonition warning">
-<p class="admonition-title">Warning</p>
-<p>Indicates crucial content that you need to read before continue. </p>
-</div>
-<div class="admonition tip">
-<p class="admonition-title">Tip</p>
-<p>Indicates additional information or tips. </p>
-</div>
-<p><br></p>
-<p>See next : <strong><a href="workspace_setup/">Workspace Setup</a></strong></p></div>
+<h3 id="conclusion"><span style="color:grey"> Conclusion </span></h3>
+<p>Congratulation! By the end of this section, you can communicate with your team members via Zoom. Now, start your stunning journey with Slack.</p></div>
         
         
     </div>
@@ -285,7 +221,7 @@
     </footer>
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="js/bootstrap-3.0.3.min.js"></script>
+    <script src="../js/bootstrap-3.0.3.min.js"></script>
 
     
     <script src="//cdn.jsdelivr.net/gh/highlightjs/cdn-release@9.18.0/build/highlight.min.js"></script>
@@ -293,10 +229,10 @@
     <script>hljs.initHighlightingOnLoad();</script>
     
 
-    <script>var base_url = "."</script>
+    <script>var base_url = ".."</script>
     
-    <script src="js/base.js"></script>
-    <script src="search/main.js"></script>
+    <script src="../js/base.js"></script>
+    <script src="../search/main.js"></script>
 
     <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-lg">
@@ -367,8 +303,3 @@
     </body>
 
 </html>
-
-<!--
-MkDocs version : 1.5.3
-Build Date UTC : 2024-04-04 06:14:33.816105+00:00
--->
