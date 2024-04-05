@@ -6,7 +6,7 @@ In this session, you will learn how to use Canvas basic tools to organize your i
 
 ### Canvas Setup
 
-1. Select a channel on the sidebar menu.  
+1. Select a desired channel on the sidebar menu.  
     ![sidebar](.\images\sidebar.png){width="300"}
 
 2. Create and edit Canvas.

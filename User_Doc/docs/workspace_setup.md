@@ -34,7 +34,7 @@ In this section, we will guide you through creating a new workspace and inviting
 
 ### Member Invitation
 
-1. If you skipped inviting members in step 1 of Workspace Setup, on the left, click **YOUR WORKSPACE NAME**, then find "Invite people to YOUR WORKSPACE NAME" and click.  
+1. If you skip inviting members in step 1 of Workspace Setup, on the left, click **YOUR WORKSPACE NAME**, then find "Invite people to YOUR WORKSPACE NAME" and click.  
 In the prompt text box, enter coworkers’ emails. Then click on **Send to invite them** if you manually enter emails. Or, you can choose to share the workspace link to invite members.  
     ![invite member](.\images\invite_member.jpg){width="400"}  
 
