@@ -16,7 +16,7 @@ This documentation is targeting towards the following users:
 * New users who are responsible for managing workspace setups
 * Users who are looking for Zoom integration into their existing workplace(s)
 
-### Prerequisite Knowledge
+### Prerequisite Requirement
 
 The documentation assumes the following:
 
