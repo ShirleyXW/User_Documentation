@@ -1,5 +1,4 @@
-# User_Documentation
-## README: Introduction to Slack User Documentation
+## Introduction to Slack User Documentation
 
 Welcome to the Slack User Documentation! This guide is designed to help users, especially new users, navigate the setup and utilization of Slack, Canvas, and Zoom integration within a workspace. Whether you're new to Slack or responsible for setting up and managing workspaces, this documentation will provide you with the necessary steps and information.
 
