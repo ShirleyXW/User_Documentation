@@ -28,7 +28,9 @@ Then click **Add Now**.
 
 2. On the left side, click **Apps**. You will see all apps installed.  
     ![apps](.\images\apps_installed.png){height="100"}
-
+!!!note
+    If you cannot see the apps you just installed, please refresh your page.
+    
 3. Click on **Zoom**.
 
 4. In the message field, click on the **Slash** icon ![slash_icon](.\images\slash_icon.png)at the bottom to open the shortcuts menu, then select "zoom" topic. (Or type in "/zoom" directly in the message field)

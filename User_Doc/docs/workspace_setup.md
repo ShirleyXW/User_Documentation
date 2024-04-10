@@ -6,20 +6,18 @@ In this section, we will guide you through creating a new workspace and inviting
 
 ### Workspace Creation
 
-1. Visit [Slack Website](https://slack.com/).
+1. Get start [Slack Website](https://slack.com/get-started#/createnew).
 
-2. Click **CREATE A NEW WORKSPACE**.  
-    ![create_workspace_button](.\images\create_workspace_btn.jpg)
-
-3. Enter your email, then click **Continue**.  
+2. Enter your email, then click **Continue**.  
     ![enter email:](.\images\enter_email.jpg){ width="300" }
 
-4. Check your email and get the confirmation code sent by Slack, then enter the code to the text field.
-        ![confirmation code sent to your email address](.\images\confirmation_code.jpg){ width="300"}
+3. If you are asked to enter confirmation code, check your email and get the confirmation code sent by Slack, then enter the code to the text field.  
+    ![confirmation code sent to your email address](.\images\confirmation_code.jpg){ width="300"}
 
-5. Click **Create a Workspace**.
+4. Click **Create a Workspace**.  
+    ![workspace_init](./images/workspace_init.png){width="300"}
 
-6. Follow prompt instructions and enter the required information.
+5. Follow prompt instructions and enter the required information.
 
 ### Workspace Setup  
 
@@ -35,7 +33,9 @@ In this section, we will guide you through creating a new workspace and inviting
 ### Member Invitation
 
 1. If you skip inviting members in step 1 of Workspace Setup, on the left, click **YOUR WORKSPACE NAME**, then find "Invite people to YOUR WORKSPACE NAME" and click.  
-In the prompt text box, enter coworkers’ emails. Then click on **Send to invite them** if you manually enter emails. Or, you can choose to share the workspace link to invite members.  
+    ![invite member](./images/invite_member.png){width="300"}
+
+2. In the prompt text box, enter coworkers’ emails. Then click on **Send to invite them** if you manually enter emails. Or, you can choose to share the workspace link to invite members.  
     ![invite member](.\images\invite_member.jpg){width="400"}  
 
 ### <span style="color:grey"> Conclusion </span>

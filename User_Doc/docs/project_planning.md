@@ -4,7 +4,7 @@
 
 In this session, you will learn how to use Canvas basic tools to organize your ideas, notes, and tasks within your preferred channel, as well as set up reminders to manage important deadlines and commitments effectively within the channel environment.
 
-### Canvas Setup
+### [Canvas](https://slack.com/help/articles/203950418-Use-a-canvas-in-Slack) Setup
 
 1. Select a desired channel on the sidebar menu.  
     ![sidebar](.\images\sidebar.png){width="300"}
