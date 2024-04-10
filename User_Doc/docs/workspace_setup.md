@@ -43,7 +43,7 @@ In this section, we will guide you through creating a new workspace and inviting
 Good job, now, you successfully created a new workspace and you can:
 
 * Invite members into workspace  
-* Start chats in channels  
+* Start chats in channels.    
 
 <br>
 

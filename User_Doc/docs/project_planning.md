@@ -50,7 +50,7 @@ In this session, you will learn how to use Canvas basic tools to organize your i
 Now, you successfully created a Canvas for a channel and a reminder. And you can:  
 
 * Showcase the project plan with your teammates  
-* Stay organized and on track by receiving timely reminders for important tasks  
+* Stay organized and on track by receiving timely reminders for important tasks.  
 
 <br>
 
