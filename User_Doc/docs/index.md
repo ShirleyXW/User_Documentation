@@ -25,23 +25,17 @@ The documentation assumes the following:
 ### System Requirements
 For the best experience, we suggest using the latest versions to run Slack.  
 
-#### Desktop
-| OS       | OS version                          | App version |
-|----------|-------------------------------------|-------------|
-| MacOS    | MacOS 11 or above                   | 4.34 or above |
-| Windows  | Windows 10 version 21H2 or above   | 4.34 or above |
-|          | Windows Server 2016                 | 4.34 or above |
-| Linux    | Ubuntu LTS releases 20.04 or above | 4.34 or above |
-|          | Red Hat Enterprise Linux 8.0 or above | 4.34 or above |
+#### Web browser
+| Browser         | Browser Version |
+|-----------------|-----------------|
+| Chrome          | Version 117     |
+| Firefox         | Version 118     |
+| Safari          | Version 17      |
+| Microsoft Edge  | Version 117     |
 
-#### Mobile
-| Mobile   | OS version             | App version    |
-|----------|------------------------|----------------|
-| iOS      | iOS 16 or above       | 23.09.10 or above |
-| Android* | Android 11 or above   | 23.09.10 or above |
 
 !!! Warning
-    Slack only support Android devices that have Google Play Services installed by default. 
+    If you are using Slack on a mobile, please notice that Slack only supports Android devices that have Google Play Services installed by default. 
 
 !!! Tip
     For more information, check [**Extras**](https://slack.com/help/articles/115002037526-System-requirements-for-using-Slack).  
