@@ -5,6 +5,8 @@
 Welcome!👋 Let's start to create a new workspace for you and your team with awesome features. This documentation will guild you through setting up a new workplace in *Slack*, planning projects using Canvas and integrate Zoom into your workplace. These steps keeps you stay updated and better communicate with your teammates.  
 > **[Slack](https://slack.com/help/articles/115004071768-What-is-Slack-)** is a messaging application that connects people to the they need. By bringing people together to work as one unified team, Slack transforms the way organizations communicate.  
 
+> **[WorkSpace](https://slack.com/help/articles/212675257-Join-a-Slack-workspace)**  is where people can communicate and work together, connect all their software tools and services, and find the information they need to do their best work.
+
 > **[Canvas](https://slack.com/help/articles/203950418-Use-a-canvas-in-Slack)** is a built-in surface in Slack where supports fully-formatted content which won't fit in a simple message. 
 
 

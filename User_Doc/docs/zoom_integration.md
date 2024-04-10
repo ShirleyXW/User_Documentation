@@ -16,7 +16,7 @@ By implementing the following steps, you can integrate Zoom with Slack, which al
 Then click **Add Now**.  
     ![add to slack](.\images\zoom_ways.png){width="550"}  
 
-4. On the upper right corner, click the drop down menue and select the workspace you created.
+4. On the upper right corner, click the drop down menu and select the workspace you created.
     ![choose workspace](.\images\choose_workspace.jpg)
 
 5. Scroll down to the bottom and click **Allow**.  
