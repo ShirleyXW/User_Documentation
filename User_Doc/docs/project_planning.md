@@ -2,7 +2,7 @@
 
 ## Project Planning
 
-In this session, you will learn how to use Canvas basic tools to organize your ideas, notes, and tasks within your preferred channel, as well as set up reminders to manage important deadlines and commitments effectively within the channel environment.
+In this session, you will learn how to use Canvas basic tools to organize your ideas, notes, and tasks within your preferred channel, and set up reminders to manage important deadlines and commitments effectively within the channel environment.
 
 ### [Canvas](https://slack.com/help/articles/203950418-Use-a-canvas-in-Slack) Setup
 
@@ -13,30 +13,28 @@ In this session, you will learn how to use Canvas basic tools to organize your i
 
     ![canvas_icon](.\images\canvas_icon.png)
 
-3. You can also use the following tools at the bottom tool bars to customize your Canvas.
+3. You can also use the following tools at the bottom toolbar to customize your Canvas.
 
     ![toolBar](.\images\tool_bar.png)
 
     * Click on the File icon ![paper_clip_icon](.\images\paper_clip_icon.png) to add files.
-    * Click on Table icon ![table_icon](.\images\table_icon.png) to add tables.
-    * Click on Check list icon ![checklist_icon](.\images\checklist_icon.png) to add checklists.
+    * Click on the Table icon ![table_icon](.\images\table_icon.png) to add tables.
+    * Click on the Check List icon ![checklist_icon](.\images\checklist_icon.png) to add checklists.
 
 4. Click the Close icon ![closeButton](.\images\close.png) at the top left corner to return to the channel.
 
-
-
 ### Reminder Setup
 
-1. In the message field, click on Slash icon ![slash_icon](.\images\slash_icon.png) at the bottom to open the shortcuts menu, then select "remind" topic. (Or type in "/remind" directly in the message field)
+1. In the message field, click on the Slash icon ![slash_icon](.\images\slash_icon.png) at the bottom to open the shortcuts menu, then select "remind" topic. (Or type in "/remind" directly in the message field)
 
 2. Click on the Send icon ![send_icon](.\images\send_icon.png) to create a new reminder.
 
-3. In the new popup window, fill out the date, time, and description. Then click Save to save the reminder.
+3. In the new popup window, fill out the date, time, and description. Then click **Save** to save the reminder.
 
-4. Click on the Later icon on the left of the sidebar menu.  
+4. Click on **Later** on the left of the sidebar menu.  
 ![later_icon_in_menu](.\images\later_icon_in_menu.png){width="300"}
 
-5. Check if there is a newly created reminder in the list. The following picture showcases the successful set up reminder.  
+5. Check if there is a newly created reminder in the list. The following picture showcases the successful setup reminder.  
 ![reminder](.\images\reminder.png){width="300"}
 
 6. Hover over the reminder, then click on the complete icon once you have done the task.
@@ -47,7 +45,7 @@ In this session, you will learn how to use Canvas basic tools to organize your i
 
 ### <span style="color:grey"> Conclusion </span>
 
-Now, you successfully created a Canvas for a channel and a reminder. And you can:  
+Now, you successfully created a Canvas for a channel and a reminder. Now you can:  
 
 * Showcase the project plan with your teammates  
 * Stay organized and on track by receiving timely reminders for important tasks  
